@@ -1,20 +1,36 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2569" tvg-logo="http://epg.one/img2/2569.png" tvg-rec="3",Qazaqstan
 https://stream1.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="9168" tvg-logo="http://epg.one/img2/9168.png" tvg-rec="0",Айгак KZ
-http://rhsbjv7k.tvclub.xyz/iptv/RVA4V85DBGYNBW/15002/index.m3u8
-#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="9169" tvg-logo="http://epg.one/img2/9169.png" tvg-rec="0",Ontustik KZ
-http://rhsbjv7k.tvclub.xyz/iptv/RVA4V85DBGYNBW/15001/index.m3u8
-#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="9170" tvg-logo="http://epg.one/img2/9170.png" tvg-rec="0",Otyrar KZ
-http://rhsbjv7k.tvclub.xyz/iptv/RVA4V85DBGYNBW/14237/index.m3u8
-#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="9171" tvg-logo="http://epg.one/img2/9171.png" tvg-rec="0",Qyzylorda KZ
-http://rhsbjv7k.tvclub.xyz/iptv/RVA4V85DBGYNBW/14233/index.m3u8
-#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="9172" tvg-logo="http://epg.one/img2/9172.png" tvg-rec="0",Jambyl KZ
-http://rhsbjv7k.tvclub.xyz/iptv/RVA4V85DBGYNBW/14232/index.m3u8
-#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="9173" tvg-logo="http://epg.one/img2/9173.png" tvg-rec="0",Ulytau KZ
-http://rhsbjv7k.tvclub.xyz/iptv/RVA4V85DBGYNBW/14231/index.m3u8
-#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="9174" tvg-logo="http://epg.one/img2/9174.png" tvg-rec="0",Aqsham TV KZ
-http://rhsbjv7k.tvclub.xyz/iptv/RVA4V85DBGYNBW/14223/index.m3u8
+#EXTINF:-1,Казахстан International
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1,Казахстан Актау
+http://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+#EXTINF:-1,Казахстан Актобе
+http://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1,Казахстан Атырау
+http://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1,Казахстан Караганда
+http://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1,Казахстан Кокшетау
+http://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1,Казахстан Костанай
+http://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1,Казахстан Кызылорда
+http://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1,Казахстан Павлодар
+http://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1,Казахстан Петропавловск
+http://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:-1,Казахстан Семей
+http://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1,Казахстан Тараз
+http://stream.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1,Казахстан Уральск
+http://stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1,Казахстан Усть-Каменогорск
+http://stream.kaztrk.kz/regional/oskementv/index.m3u8
+#EXTINF:-1,Казахстан Шымкент
+http://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2570" tvg-logo="http://epg.one/img2/2570.png" tvg-rec="3",КТК
 http://sc.id-tv.kz/KTK_34_35.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2571" tvg-logo="http://epg.one/img2/2571.png" tvg-rec="3",Первый канал Евразия
