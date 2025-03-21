@@ -25,7 +25,6 @@ http://sc.id-tv.kz/7_kanal_34_35.m3u8
 http://sc.id-tv.kz/Khabar.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2578" tvg-logo="http://epg.one/img2/2578.png" tvg-rec="3",24 KZ
 http://sc.id-tv.kz/Khabar_24.m3u8
-#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-id="abaitv" tvg-logo="https://iptvx.one/picons/abaitv.png",Abai TV
 #EXTINF:-1 group-title="Казахстан | Қазақстан",HIT TV
 http://sc.id-tv.kz/HitTV.m3u8
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
@@ -37,8 +36,7 @@ https://stream.kaztrk.kz/regional/oraltv/index.m3u8
 https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
 #EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-id="novoe-televidenie" tvg-logo="https://iptvx.one/picons/novoe-televidenie.png",Новое телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-id="kazsport" tvg-logo="https://iptvx.one/picons/kazsport.png",QazSport
-#EXTINF:-1,Казахстан Актау
+#EXTINF:-1,Маңғыстау
 http://stream.kaztrk.kz/regional/mangystautv/index.m3u8
 #EXTINF:-1,Казахстан Актобе
 http://stream.kaztrk.kz/regional/aktobetv/index.m3u8
@@ -64,7 +62,6 @@ http://stream.kaztrk.kz/regional/taraztv/index.m3u8
 http://stream.kaztrk.kz/regional/oraltv/index.m3u8
 #EXTINF:-1,Казахстан Усть-Каменогорск
 http://stream.kaztrk.kz/regional/oskementv/index.m3u8
-#EXTINF:-1,Казахстан Шымкент
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Первый (HD ready)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
