@@ -14,7 +14,7 @@ http://sc.id-tv.kz/JibekJoly.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="7092" tvg-logo="http://epg.one/img2/7092.png" tvg-rec="3",El Arna KZ
 http://sc.id-tv.kz/ElArna_34_35.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2639" tvg-logo="http://epg.one/img2/2639.png" tvg-rec="3",31 канал KZ
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2217/index.m3u8
+http://sc.id-tv.kz/31Kanal_34_35.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан"  tvg-id="ntk-kz" tvg-id="2640" tvg-logo="http://epg.one/img2/2640.png" tvg-rec="3",НТК
 http://sc.id-tv.kz/NTK_34_35.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="7093" tvg-logo="http://epg.one/img2/7093.png" tvg-rec="3",Turan TV
@@ -25,6 +25,8 @@ http://sc.id-tv.kz/7_kanal_34_35.m3u8
 http://420e8aa9.cbilant.com/iptv/6ZCT3YCCFQL2R226QAQ73W29/2223/index.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2578" tvg-logo="http://epg.one/img2/2578.png" tvg-rec="3",24 KZ
 http://sc.id-tv.kz/Khabar_24.m3u8
+#EXTINF:0 group-title="Казахстан | Қазақстан", Той думан
+http://sc.id-tv.kz/ToiDuman.m3u8
 #EXTINF:-1 group-title="Казахстан | Қазақстан",HIT TV
 http://sc.id-tv.kz/HitTV.m3u8
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
