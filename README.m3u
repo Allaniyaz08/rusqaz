@@ -29,6 +29,10 @@ http://sc.id-tv.kz/Khabar_24.m3u8
 http://sc.id-tv.kz/ToiDuman.m3u8
 #EXTINF:-1 group-title="Казахстан | Қазақстан",HIT TV
 http://sc.id-tv.kz/HitTV.m3u8
+#EXTINF:0 group-title="Қазақстан | Қазақстан" tvg-id="muzzone" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/muzzone.png",MuzZone
+https://streams.qazcdn.net/muzzone/muzzone/playlist_dvr.m3u8
+#EXTINF:0 group-title="Қазақстан | Қазақстан" tvg-id="balapan" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/balapan.png",Balapan
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 #EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-id="alautv" tvg-logo="https://iptvx.one/picons/alautv.png",Алау ТВ
 https://otv.wotom.net/alau/stream.m3u8
