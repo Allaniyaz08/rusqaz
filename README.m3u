@@ -68,6 +68,16 @@ http://stream.kaztrk.kz/regional/taraztv/index.m3u8
 http://stream.kaztrk.kz/regional/oraltv/index.m3u8
 #EXTINF:-1,Казахстан Усть-Каменогорск
 http://stream.kaztrk.kz/regional/oskementv/index.m3u8
+#EXTINF:-1 ,Qaraqalpaqstan
+https://stream1.cinerama.uz/1467/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eliqqala TV
+https://stream8.cinerama.uz/1495/tracks-v1a1/mono.m3u8?token=Fgyo2fngwmxRaLPc8YATOQMKA
+#EXTINF:-1 ,Nasaf TV
+https://stream8.cinerama.uz/2025/tracks-a1/mono.m3u8
+#EXTINF:-1 ,JaslarTV
+https://stream8.cinerama.uz/1490/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Amudaryo TV
+https://stream1.cinerama.uz/1491/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sevimili UZ
 https://stream1.cinerama.uz/1017/tracks-v1a1/mono.m3u8
 #EXTINF:0,Renessans TV UZ
