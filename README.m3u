@@ -124,6 +124,28 @@ https://stream1.cinerama.uz/1213/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1211/tracks-v1a1/mono.m3u8
 #EXTINF:0,Biz Music HD UZ
 https://stream1.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ITV Cinema
+https://stream2.cinerama.uz/4000/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sevimlijon
+https://stream1.cinerama.uz/1477/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Gold TV
+https://stream8.cinerama.uz/4007/tracks-v1a1/mono.m3u8
+#EXTINF:-1, JTV
+https://stream8.cinerama.uz/1488/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TTV Kino
+https://stream2.cinerama.uz/1486/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Kino
+https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Cinema Uz
+https://stream1.cinerama.uz/1498/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Dasturxon tv
+https://stream1.cinerama.uz/1206/tracks-v1a1/mono.m3u8
+#EXTINF:-1, FTV
+https://stream1.cinerama.uz/1206/tracks-v1a1/mono.m3u8
+EXTINF:-1, S music
+http://82.215.111.227/1245/index.m3u8
+EXTINF:-1, TTV musiqa
+https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Bolajon
 https://stream1.cinerama.uz/1007/tracks-v1a1/mono.m3u8
 #EXTINF:0,Aqlvoy TV UZ
@@ -174,8 +196,6 @@ https://stream1.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1245/tracks-v1a1/mono.m3u8
 #EXTINF:0,Bridge TV Classic
 https://stream1.cinerama.uz/1269/tracks-v1a1/mono.m3u8
-#EXTINF:0,1HD
-https://stream1.cinerama.uz/1267/tracks-v1a1/mono.m3u8
 #EXTINF:0,Trace Sport Stars HD
 https://stream1.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:0,MMA-TV.COM
