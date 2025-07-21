@@ -88,6 +88,8 @@ https://stream1.cinerama.uz/1209/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1011/tracks-v1a1/mono.m3u8
 #EXTINF:0,Nurafshon TV UZ
 https://stream1.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+#EXTINF:0,FTV 
+https://stream1.cinerama.uz/1018/tracks-v1a1/mono.m3u8
 #EXTINF:0,Ntv UZ
 https://stream1.cinerama.uz/1284/tracks-v1a1/mono.m3u8
 #EXTINF:0,Navo UZ
@@ -126,8 +128,6 @@ https://stream1.cinerama.uz/1211/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1212/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ITV Cinema
 https://stream2.cinerama.uz/4000/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Sevimlijon
-https://stream1.cinerama.uz/1477/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Gold TV
 https://stream8.cinerama.uz/4007/tracks-v1a1/mono.m3u8
 #EXTINF:-1, JTV
@@ -180,8 +180,6 @@ https://stream1.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:0,Ля-Минор
 https://stream1.cinerama.uz/1238/tracks-v1a1/mono.m3u8
-#EXTINF:0,СТВ Музыка HD
-https://stream1.cinerama.uz/1018/tracks-v1a1/mono.m3u8
 #EXTINF:0,ТНТ Music
 https://stream1.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 #EXTINF:0,Aiva
@@ -198,8 +196,8 @@ https://stream1.cinerama.uz/1245/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1269/tracks-v1a1/mono.m3u8
 #EXTINF:0,Trace Sport Stars HD
 https://stream1.cinerama.uz/1274/tracks-v1a1/mono.m3u8
-#EXTINF:0,MMA-TV.COM
-https://stream1.cinerama.uz/1027/tracks-v1a1/mono.m3u8
+#EXTINF:0,MMA-TV
+http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/19243/index.m3u8
 #EXTINF:0,KHL
 https://stream1.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:0,Матч! Планета
@@ -958,31 +956,3 @@ http://streamsrv2.tvspb.ru/APP/tracks-v1a1/mono.m3u8
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="insit-tv" tvg-logo="https://iptvx.one/picons/insit-tv.png" group-title="Региональные",ЮУрГУ (Челябинск) (HD ready)
 http://tvrlive.susu.ru/1800k/playlist.m3u8
-
-#EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://iptvx.one/picons/avtoradio.png" group-title="Радио",Авторадио
-http://ic7.101.ru:8000/v3_1
-#EXTINF:-1 tvg-id="dorozhnoe-radio" tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
-http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio.png" group-title="Радио",Наше радио
-http://nashe1.hostingradio.ru:80/nashe-256
-#EXTINF:-1 tvg-id="radio-dfm" tvg-logo="https://iptvx.one/picons/radio-dfm.png" group-title="Радио",Радио DFM
-http://dfm.hostingradio.ru/dfm128.mp3
-#EXTINF:-1 tvg-id="radio-mayak" tvg-logo="https://iptvx.one/picons/radio-mayak.png" group-title="Радио",Радио Маяк
-http://icecast.vgtrk.cdnvideo.ru/mayakfm
-#EXTINF:-1 tvg-id="radio-mir" tvg-logo="https://iptvx.one/picons/radio-mir.png" group-title="Радио",Радио Мир
-http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
-#EXTINF:-1 tvg-id="radio-na7xolmax" tvg-logo="https://iptvx.one/picons/radio-na7xolmax.png" group-title="Радио",Радио на семи холмах
-http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
-#EXTINF:-1 tvg-id="radio-romantika" tvg-logo="https://iptvx.one/picons/radio-romantika.png" group-title="Радио",Радио Романтика
-http://ic7.101.ru:8000/v4_1
-#EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://iptvx.one/picons/radio-shanson.png" group-title="Радио",Радио Шансон
-http://chanson.hostingradio.ru:8041/chanson256.mp3
-#EXTINF:-1 tvg-id="radio-vania" tvg-logo="https://iptvx.one/picons/radio-vania.png" group-title="Радио",Радио Ваня
-http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
-#EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://iptvx.one/picons/retro-fm.png" group-title="Радио",Ретро FM
-http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
-#EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://iptvx.one/picons/xit-fm.png" group-title="Радио",Хит FM
-http://hitfm.hostingradio.ru/hitfm128.mp3
-#EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://iptvx.one/picons/yumor-fm.png" group-title="Радио",Юмор FM
-http://ic7.101.ru:8000/v5_1
-
