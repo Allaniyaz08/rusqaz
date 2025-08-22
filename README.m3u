@@ -119,7 +119,7 @@ http://94.43.1.138:8081/setanta1/index.m3u8
 #EXTINF:0,Setanta Sports 2
 http://158.160.149.81:8080/8829/index.m3u8
 #EXTINF:0,QazSport 
-https://edge03-alm.beetv.kz/bpk-token/2an@fqfnzl0gwufpzor5bmxjzl0sxmbmjl4sfk4nc3ca/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
+http://127.0.0.1:6878/ace/getstream?infohash=2d53211689c67c59f91f4d854db97ea2219161ec
 #EXTINF:0,Cinema
 https://stream2.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:0,Biz Cinema UZ
