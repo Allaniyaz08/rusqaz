@@ -115,9 +115,9 @@ https://stream1.cinerama.uz/1015/tracks-v1a1/mono.m3u8
 #EXTINF:0,UzSport
 https://stream1.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:0,Setanta Sports 1 HD
-https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:0,Setanta Sports 2 HD
-https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+http://94.43.1.138:8081/setanta1/index.m3u8
+#EXTINF:0,Setanta Sports 2
+http://158.160.149.81:8080/8829/index.m3u8
 #EXTINF:0,QazSport 
 https://edge03-alm.beetv.kz/bpk-token/2an@fqfnzl0gwufpzor5bmxjzl0sxmbmjl4sfk4nc3ca/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
 #EXTINF:0,Cinema
