@@ -16,11 +16,11 @@ https://hls.live.31kz.adapto.kz/forward_live_31kz/index.m3u8
 #EXTINF:0,Первый канал Евразия 
 http://sc.id-tv.kz/1KanalEvraziya_36_37.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан"  tvg-id="ntk-kz" tvg-id="2640" tvg-logo="http://epg.one/img2/2640.png" tvg-rec="3",НТК
-http://sc.id-tv.kz/NTK_34_35.m3u8
+http://87.76.32.36:8001/ntk
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="7093" tvg-logo="http://epg.one/img2/7093.png" tvg-rec="3",Turan TV
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2220/index.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2643" tvg-logo="http://epg.one/img2/2643.png" tvg-rec="3",7 канал KZ
-http://sc.id-tv.kz/7_kanal_34_35.m3u8
+http://87.76.32.36:8001/7kanal
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2576" tvg-logo="http://epg.one/img2/2576.png" tvg-rec="3",Хабар
 http://sc.id-tv.kz/Khabar.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2578" tvg-logo="http://epg.one/img2/2578.png" tvg-rec="3",24 KZ
