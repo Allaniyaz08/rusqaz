@@ -6,7 +6,7 @@ https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2570" tvg-logo="http://epg.one/img2/2570.png" tvg-rec="3",КТК
 http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2573" tvg-logo="http://epg.one/img2/2573.png" tvg-rec="3",Astana TV
-http://sc.id-tv.kz/Astana_34_35.m3u8
+http://87.76.32.36:8001/astana
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="7091" tvg-logo="http://epg.one/img2/7091.png" tvg-rec="3",Jibek Joly TV
 http://sc.id-tv.kz/JibekJoly.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="7092" tvg-logo="http://epg.one/img2/7092.png" tvg-rec="3",El Arna KZ
