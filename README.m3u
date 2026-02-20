@@ -26,7 +26,7 @@ http://sc.id-tv.kz/Khabar.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2578" tvg-logo="http://epg.one/img2/2578.png" tvg-rec="3",24 KZ
 https://iptv.itv.uz/hls/live/t/adZFJbTjSlBUnm2Ro52seg/e/1763927929/1408/index.m3u8?ip=213.183.48.195
 #EXTINF:0 group-title="Казахстан | Қазақстан", Той думан
-http://sc.id-tv.kz/ToiDuman.m3u8
+http://87.76.32.36:8001/toiduman
 #EXTINF:-1 group-title="Казахстан | Қазақстан",HIT TV
 http://sc.id-tv.kz/HitTV.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="muzzone" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/muzzone.png",MuzZone
